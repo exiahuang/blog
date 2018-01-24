@@ -1,14 +1,14 @@
 ---
 layout: default
 title:  sfdc-call-rest api
-date:   2018-01-21 10:11:04 +0900
+date:   2018-01-21 13:11:04 +0900
 categories: salesforce sfdc apex
 ---
 
 # Understanding the Web Server OAuth Authentication Flow
 ![Salesforce-Oauth-Flow]({{ "/pic/sfdc/oauth-flow.png" | prepend: site.baseurl }})
 
-[Understanding the Web Server OAuth Authentication Flow](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_web_server_oauth_flow.htm(
+[Understanding the Web Server OAuth Authentication Flow](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_web_server_oauth_flow.htm)
 
 # get token
 
@@ -33,14 +33,14 @@ https://instance.salesforce.com/services/apexrest/ServiceName/
 # Using cURL in the REST Examples
 
 Example:
-{% highlight shell %}
+```
 curl https://***instance_name***.salesforce.com/services/data/v42.0/ 
 -H "Authorization: Bearer 00D50000000IehZ\!AQcAQH0dMHZfz972Szmpkb58urFRkgeBGsxL_QJWwYMfAbUeeG7c1E6
 LYUfiDUkWe6H34r1AAwOR8B8fLEz6n04NPGRrq0FM"
-{% endhighlight %}
+```
 
 Enclose the session ID within single quotes. For example:
-{% highlight shell %}
+```
 curl https://***instance_name***.salesforce.com/services/data/v42.0/ 
 -H 'Authorization: Bearer sessionID'
-{% endhighlight %}
+```
