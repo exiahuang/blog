@@ -6,11 +6,13 @@ categories: sfdc-queue-max-size
 ---
 
 # トランザクション単位の Apex 制限
+```
 Maximum number of methods with the `future` annotation allowed per Apex invocation	`50`
 Apex 呼び出し 1 回につき許可される `future` アノテーションを持つメソッドの最大数	`50`
 
 Maximum number of Apex jobs added to the queue with `System.enqueueJob`	`50`
 `System.enqueueJob` によってキューに追加される Apex ジョブの最大数	`50`
+```
 
 # find the max size
 {% highlight java %}
