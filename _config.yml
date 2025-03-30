@@ -6,7 +6,7 @@ email: exia.huang@outlook.com
 description: "关于程序，逻辑，工具 | ExiaHuang，Salesforce Developer，Software Engineer | 这里是 @ExiaHuang 的个人博客，一个普通又简单的小博客。"
 keyword: "细勇, ExiaHuang, @ExiaHuang, 细勇的博客, ExiaHuang Blog, 博客, 个人网站, 互联网, Web, Salesforce, SFDC, SFDX, Python, Node, Linux"
 url: "http://salesforcexytools.com"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/blog"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
