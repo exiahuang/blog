@@ -57,7 +57,7 @@ update_date: 2020/05/23 23:56:53
 
 
 ## explain 3
-  ![SFDC VF actionfunction](/images/sfdc-actionfunction/actionfunction.jpg) 
+  ![SFDC VF actionfunction](/blog/images/sfdc-actionfunction/actionfunction.jpg) 
 
 ## How Can I pass parameters using apex:actionFunction??
 <div class="note primary">There is an example for you</div>

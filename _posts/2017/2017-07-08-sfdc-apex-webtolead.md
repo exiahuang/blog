@@ -53,4 +53,4 @@ https://test.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8&oid=00D0k00
 # web to lead
 取引開始済みすると、もとの状態に戻れない
 原因は下記です。。
-![sfdc-lead](/images/sfdc-image/sfdc-lead-fields.jpg)
+![sfdc-lead](/blog/images/sfdc-image/sfdc-lead-fields.jpg)

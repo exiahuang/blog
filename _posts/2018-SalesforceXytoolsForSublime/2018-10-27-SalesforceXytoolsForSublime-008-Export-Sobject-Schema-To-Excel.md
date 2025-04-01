@@ -36,8 +36,8 @@ update_date: 2020/05/23 23:56:51
 
 Open Sublime-Menu : SFDC-XY > Sobject > Export Sobject Schema To Excel
 
-![1539935245815](/images/xytools_images/1539935245815.png)
+![1539935245815](/blog/images/xytools_images/1539935245815.png)
 
 Example,
 
-![1539935461910](/images/xytools_images/1539935461910.png)
+![1539935461910](/blog/images/xytools_images/1539935461910.png)

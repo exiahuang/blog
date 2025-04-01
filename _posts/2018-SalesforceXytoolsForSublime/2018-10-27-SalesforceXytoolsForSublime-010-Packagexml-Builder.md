@@ -34,7 +34,7 @@ update_date: 2020/05/23 23:56:51
 
 > Sublime-Menu :SFDC-XY > Package Builder > Build Package.xml From Server
 
-![1539845253603](/images/xytools_images/1539845253603.png)
+![1539845253603](/blog/images/xytools_images/1539845253603.png)
 
 
 
@@ -79,7 +79,7 @@ You can build package.xml like below.
 
 Example, Open `Account.object`,`Blog.page`,`BlogController.cls`,`Blog__c.object` in Sublime
 
-![1539846980157](/images/xytools_images/1539846980157.png)
+![1539846980157](/blog/images/xytools_images/1539846980157.png)
 
 > Sublime-Menu : SFDC-XY > Package Builder > Build package.xml From Open Files
 

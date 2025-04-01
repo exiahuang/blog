@@ -42,33 +42,33 @@ update_date: 2020/05/23 23:56:51
 
 `SObject > Search Sobject(Browser)`
 
-![1540435396263](/images/xytools_images/1540435396263.png)
+![1540435396263](/blog/images/xytools_images/1540435396263.png)
 
 Search the sobject, then it will open the sobject manager page in browser.
 
-![1540435427892](/images/xytools_images/1540435427892.png)
+![1540435427892](/blog/images/xytools_images/1540435427892.png)
 
-![1540435595332](/images/xytools_images/1540435595332.png)
+![1540435595332](/blog/images/xytools_images/1540435595332.png)
 
 ## View SObject Data In Browser
 
 `SObject > Open Sobject Data View(Browser)` 
 
-![1540435631881](/images/xytools_images/1540435631881.png)
+![1540435631881](/blog/images/xytools_images/1540435631881.png)
 
 Search the sobject, then it will open the data manager page in browser.
 
-![1540435726045](/images/xytools_images/1540435726045.png)
+![1540435726045](/blog/images/xytools_images/1540435726045.png)
 
 ## Export Sobject Schema To Excel
 
 `Sobject > Export Sobject Schema To Excel`
 
-![1539935245815](/images/xytools_images/1539935245815.png)
+![1539935245815](/blog/images/xytools_images/1539935245815.png)
 
 Example,
 
-![1539935461910](/images/xytools_images/1539935461910.png)
+![1539935461910](/blog/images/xytools_images/1539935461910.png)
 
 
 
@@ -76,15 +76,15 @@ Example,
 
 `Sobject > Show Sobject List `
 
-![1540435947703](/images/xytools_images/1540435947703.png)
+![1540435947703](/blog/images/xytools_images/1540435947703.png)
 
 ## Export SObject Data To Txt
 
 `Sobject > Export Sobject Data `
 
-![1540436013078](/images/xytools_images/1540436013078.png)
+![1540436013078](/blog/images/xytools_images/1540436013078.png)
 
-![1540436160738](/images/xytools_images/1540436160738.png)
+![1540436160738](/blog/images/xytools_images/1540436160738.png)
 
 # summary
 ## SObject

@@ -34,18 +34,18 @@ update_date: 2020/05/23 23:56:51
 
 Select your Lightning component.
 
-![1540539008255](/images/xytools_images/1540539008255.png)
+![1540539008255](/blog/images/xytools_images/1540539008255.png)
 
 Right Click, `SFDC-Xy > Copy Lightning Component`. 
 
-![1540539047383](/images/xytools_images/1540539047383.png)
+![1540539047383](/blog/images/xytools_images/1540539047383.png)
 
 Input your new component name.
 
-![1540539148418](/images/xytools_images/1540539148418.png)
+![1540539148418](/blog/images/xytools_images/1540539148418.png)
 
 Check the new component.
-![1540539896624](/images/xytools_images/1540539896624.png)
+![1540539896624](/blog/images/xytools_images/1540539896624.png)
 
 # Deploy The component
 
@@ -53,4 +53,4 @@ choose your folder or source in sublime folders, then right click.
 
 Find the menu : `Sfdc-Xy > Deploy Directory To SFDC`
 
-![1540445304166](/images/xytools_images/1540445304166.png)
+![1540445304166](/blog/images/xytools_images/1540445304166.png)

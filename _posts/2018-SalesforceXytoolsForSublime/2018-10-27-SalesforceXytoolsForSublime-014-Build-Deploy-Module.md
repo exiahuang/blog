@@ -35,19 +35,19 @@ update_date: 2020/05/23 23:56:51
 
 Open the source.
 
-![1540519797063](/images/xytools_images/1540519797063.png)
+![1540519797063](/blog/images/xytools_images/1540519797063.png)
 
 Right Click , `SFDC-XY Toolbox> Save Module(From Open Files)`
 
-![1540519843822](/images/xytools_images/1540519843822.png)
+![1540519843822](/blog/images/xytools_images/1540519843822.png)
 
 Input your save path
 
-![1540519944813](/images/xytools_images/1540519944813.png)
+![1540519944813](/blog/images/xytools_images/1540519944813.png)
 
 Check your module
 
-![1540521537775](/images/xytools_images/1540521537775.png)
+![1540521537775](/blog/images/xytools_images/1540521537775.png)
 
 
 

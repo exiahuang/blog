@@ -36,7 +36,7 @@ In this project, you’ll:
 
 Please set your api `45.0`
 
-![1545965650321](/images/xytools_images/1545965650321.png)
+![1545965650321](/blog/images/xytools_images/1545965650321.png)
 
 
 
@@ -49,7 +49,7 @@ The Source is From [Create a Hello World Lightning Web Component](https://trailh
 
 Create source in sublime, like below:
 
-![1545964554803](/images/xytools_images/1545964554803.png)
+![1545964554803](/blog/images/xytools_images/1545964554803.png)
 
 `helloWorld.html`
 
@@ -99,19 +99,19 @@ export default class HelloWorld extends LightningElement {
 
 Right Click -> Deploy Directory To Server
 
-![1545965045120](/images/xytools_images/1545965045120.png)
+![1545965045120](/blog/images/xytools_images/1545965045120.png)
 
 Select Deploy Direcotry
 
-![1545965073324](/images/xytools_images/1545965073324.png)
+![1545965073324](/blog/images/xytools_images/1545965073324.png)
 
 Click `Yes!`
 
-![1545965134397](/images/xytools_images/1545965134397.png)
+![1545965134397](/blog/images/xytools_images/1545965134397.png)
 
 Check the log 
 
-![1545965313466](/images/xytools_images/1545965313466.png)
+![1545965313466](/blog/images/xytools_images/1545965313466.png)
 
 
 

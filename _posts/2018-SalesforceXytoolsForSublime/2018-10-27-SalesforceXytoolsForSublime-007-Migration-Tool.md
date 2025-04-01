@@ -42,11 +42,11 @@ update_date: 2020/05/23 23:56:51
 
 >  Sublime-Menu :SFDC-XY > Migration Tool > Ant Migration Tool
 
-![1539848350521](/images/xytools_images/1539848350521.png)
+![1539848350521](/blog/images/xytools_images/1539848350521.png)
 
 Select `Config Ant Metadata Tool`
 
-![1540431779525](/images/xytools_images/1540431779525.png)
+![1540431779525](/blog/images/xytools_images/1540431779525.png)
 
 
 
@@ -56,13 +56,13 @@ Select `Config Ant Metadata Tool`
 >
 >  Select `Backup All Metadata`
 
-![1540431839856](/images/xytools_images/1540431839856.png)
+![1540431839856](/blog/images/xytools_images/1540431839856.png)
 
 
 
 It will take some time to backup all sfdc metadata. It will backup to the `sfdc-xy\MetadataBackupTools\backup-metadata\`
 
-![1540432165067](/images/xytools_images/1540432165067.png)
+![1540432165067](/blog/images/xytools_images/1540432165067.png)
 
 
 
@@ -78,7 +78,7 @@ You don't need to config `package.xml`.
 
 Just copy `MetadataBackupTools` and config your **system tasks**
 
-![1539848747628](/images/xytools_images/1539848747628.png)
+![1539848747628](/blog/images/xytools_images/1539848747628.png)
 
 
 
@@ -86,9 +86,9 @@ Just copy `MetadataBackupTools` and config your **system tasks**
 
 In **windows**, you can set task like this.
 
-![1539849119939](/images/xytools_images/1539849119939.png)
+![1539849119939](/blog/images/xytools_images/1539849119939.png)
 
-![1539849440133](/images/xytools_images/1539849440133.png)
+![1539849440133](/blog/images/xytools_images/1539849440133.png)
 
 
 

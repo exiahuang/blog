@@ -32,27 +32,27 @@ Please install ant and java.
 
 ## Open Schema Page
 
-![SalesforeXyTools-Dataloader](/images/salesforcexytools-for-chrome/SalesforeXyTools-Dataloader-1.jpg)
+![SalesforeXyTools-Dataloader](/blog/images/salesforcexytools-for-chrome/SalesforeXyTools-Dataloader-1.jpg)
 
 ## Download SalesforceXyTools-Dataloader
 
-![SalesforeXyTools-Dataloader](/images/salesforcexytools-for-chrome/SalesforeXyTools-Dataloader-2.jpg)
+![SalesforeXyTools-Dataloader](/blog/images/salesforcexytools-for-chrome/SalesforeXyTools-Dataloader-2.jpg)
 
-![SalesforeXyTools-Dataloader](/images/salesforcexytools-for-chrome/SalesforeXyTools-Dataloader-2.1.jpg)
+![SalesforeXyTools-Dataloader](/blog/images/salesforcexytools-for-chrome/SalesforeXyTools-Dataloader-2.1.jpg)
 
 ## Download Build.xml
 Click `Create Build.xml`
-![SalesforeXyTools-Dataloader](/images/salesforcexytools-for-chrome/SalesforeXyTools-Dataloader-3.jpg)
+![SalesforeXyTools-Dataloader](/blog/images/salesforcexytools-for-chrome/SalesforeXyTools-Dataloader-3.jpg)
 
 If you want to backup all the data from your sfdc, you can download all sobjcet backup config.
 Please click `Create Build.xml(All Sobjcet)`.
 
 ## Copy Build.xml file to [SalesforeXyTools-Dataloader]
  Copy Build.xml file to [SalesforeXyTools-Dataloader]
-![SalesforeXyTools-Dataloader](/images/salesforcexytools-for-chrome/SalesforeXyTools-Dataloader-4.jpg)
+![SalesforeXyTools-Dataloader](/blog/images/salesforcexytools-for-chrome/SalesforeXyTools-Dataloader-4.jpg)
 
 ## Config your user and password.
-![SalesforeXyTools-Dataloader](/images/salesforcexytools-for-chrome/SalesforeXyTools-Dataloader-5.jpg)
+![SalesforeXyTools-Dataloader](/blog/images/salesforcexytools-for-chrome/SalesforeXyTools-Dataloader-5.jpg)
 
 ※How to create your password.
 [Create the Encrypted Password](https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/command_line_create_enc_password.htm)

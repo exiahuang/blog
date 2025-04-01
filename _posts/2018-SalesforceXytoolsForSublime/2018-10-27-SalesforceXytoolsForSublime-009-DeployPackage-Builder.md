@@ -30,7 +30,7 @@ update_date: 2020/05/23 23:56:51
 
 Example, Open `Account.object`,`Blog.page`,`BlogController.cls`,`Blog__c.object` in Sublime
 
-![1539846980157](/images/xytools_images/1539846980157.png)
+![1539846980157](/blog/images/xytools_images/1539846980157.png)
 
 > Sublime-Menu : SFDC-XY > Package Builder > Build Deploy package From Open Files
 >

@@ -25,7 +25,7 @@ update_date: 2020/05/23 23:56:52
 必要なレコードをすぐに見つけられない場合は、検索範囲を絞り込みます。ヘッダーをクリックして結果を並び替えるか、[検索条件を表示] を選択して結果を絞り込むことができます。
 それでもレコードが見つかりませんか? スペルと、検索語全体を入力したことを確認します。それでもレコードが見つからない場合は、検索できないオブジェクトまたはレコードであるか、レコードを表示する権限がありません。システム管理者にお問い合わせください。
 
-![basics_search_results](/images/sfdc-image/basics_search_results.png)
+![basics_search_results](/blog/images/sfdc-image/basics_search_results.png)
 
 
 # グローバル検索の設定の確認

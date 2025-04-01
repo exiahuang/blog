@@ -34,9 +34,9 @@ Feature:
 
 
 
-![SF365-Menu](/images/exia-sfdc-app/SF365-Menu.png)
+![SF365-Menu](/blog/images/exia-sfdc-app/SF365-Menu.png)
 
-![sf365-file-manager](/images/exia-sfdc-app/SF365-File-Manager.png)
+![sf365-file-manager](/blog/images/exia-sfdc-app/SF365-File-Manager.png)
 
 
 
@@ -140,7 +140,7 @@ Download:
 - [Salesforce XyTools - Chrome ウェブストア (google.com)](https://chrome.google.com/webstore/detail/salesforce-xytools/ehklfkbacogbanjgekccnbfdgjechlmf)
 - https://chrome.google.com/webstore/detail/salesforce-xytools/ehklfkbacogbanjgekccnbfdgjechlmf
 
-![Saleforcexytools Chrome APP](/images/exia-sfdc-app/SalesforcexytoolsChrome.png)
+![Saleforcexytools Chrome APP](/blog/images/exia-sfdc-app/SalesforcexytoolsChrome.png)
 
 ### Adminite Chrome
 
@@ -166,7 +166,7 @@ Adminite Chrome App Copyright (c) 2021 [ExiaHuang](https://github.com/exiahuang/
 
 [Adminite](https://github.com/omniphx/adminite): MIT License Copyright (c) 2021 Marty
 
-![Adminite-Chrome](/images/exia-sfdc-app/Adminite-Chrome.png)
+![Adminite-Chrome](/blog/images/exia-sfdc-app/Adminite-Chrome.png)
 
 
 

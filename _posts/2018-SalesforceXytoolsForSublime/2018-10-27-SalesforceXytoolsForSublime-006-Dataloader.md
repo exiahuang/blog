@@ -42,19 +42,19 @@ update_date: 2020/05/23 23:56:51
 
 Open Sublime-Menu : SFDC-XY > Dataloader > Build Ant Dataloader Configuration
 
-![1539931429520](/images/xytools_images/1539931429520.png)
+![1539931429520](/blog/images/xytools_images/1539931429520.png)
 
 
 
 Select `Your Sobjects` and  Select `Start To Config`, example:
 
-![1539931785518](/images/xytools_images/1539931785518.png)
+![1539931785518](/blog/images/xytools_images/1539931785518.png)
 
 
 
 You can find **AntDataloader** in `./sfdc-xy/AntDataloader` Folder.
 
-![1539931980132](/images/xytools_images/1539931980132.png)
+![1539931980132](/blog/images/xytools_images/1539931980132.png)
 
 
 
@@ -69,7 +69,7 @@ ant
 
 
 
-![1539932235973](/images/xytools_images/1539932235973.png)
+![1539932235973](/blog/images/xytools_images/1539932235973.png)
 
 
 
@@ -78,7 +78,7 @@ ant
 `Dataloader > Run Ant Dataloader`
 The data will be export to `/sfdc-xy/AntDataloader/Export_YYYYMMDD_HHmm`
 
-![1539932182175](/images/xytools_images/1539932182175.png)
+![1539932182175](/blog/images/xytools_images/1539932182175.png)
 
 
 

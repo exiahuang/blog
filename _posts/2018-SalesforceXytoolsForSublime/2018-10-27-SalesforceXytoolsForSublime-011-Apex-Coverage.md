@@ -40,8 +40,8 @@ update_date: 2020/05/23 23:56:51
 
 `ApexTest > Show Apex Code Coverage`
 
-![1540443192921](/images/xytools_images/1540443192921.png)
+![1540443192921](/blog/images/xytools_images/1540443192921.png)
 
 Result
 
-![1540443323472](/images/xytools_images/1540443323472.png)
+![1540443323472](/blog/images/xytools_images/1540443323472.png)

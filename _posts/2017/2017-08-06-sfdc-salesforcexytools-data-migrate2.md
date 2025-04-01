@@ -36,24 +36,24 @@ Open the Data Migration Page as below.
 - Organization1 Object
 - Organization2 Object
 
-![sfdc-salesforcexytools-data-migrate1](/images/salesforcexytools-for-chrome/sfdc-salesforcexytools-data-migrate2-1.jpg)
+![sfdc-salesforcexytools-data-migrate1](/blog/images/salesforcexytools-for-chrome/sfdc-salesforcexytools-data-migrate2-1.jpg)
 
 ## SOQL Builder
 Insert Your SOQL
-![sfdc-salesforcexytools-data-migrate2](/images/salesforcexytools-for-chrome/sfdc-salesforcexytools-data-migrate2-2.jpg)
+![sfdc-salesforcexytools-data-migrate2](/blog/images/salesforcexytools-for-chrome/sfdc-salesforcexytools-data-migrate2-2.jpg)
 
 Run `Bulk Insert`, the soql will be run in organization1, and the data will be transfer to organization2 by bulk api.
 Also, you can `Bulk Delete` data.
-![sfdc-salesforcexytools-data-migrate5](/images/salesforcexytools-for-chrome/sfdc-salesforcexytools-data-migrate5.jpg)
+![sfdc-salesforcexytools-data-migrate5](/blog/images/salesforcexytools-for-chrome/sfdc-salesforcexytools-data-migrate5.jpg)
 
 ## Check Result.
 Check the log,
 
 Check the job in Organization2:
-![sfdc-salesforcexytools-data-migrate7](/images/salesforcexytools-for-chrome/sfdc-salesforcexytools-data-migrate7.jpg)
+![sfdc-salesforcexytools-data-migrate7](/blog/images/salesforcexytools-for-chrome/sfdc-salesforcexytools-data-migrate7.jpg)
 
 Check the data in Organization2:
-![sfdc-salesforcexytools-data-migrate8](/images/salesforcexytools-for-chrome/sfdc-salesforcexytools-data-migrate8.jpg)
+![sfdc-salesforcexytools-data-migrate8](/blog/images/salesforcexytools-for-chrome/sfdc-salesforcexytools-data-migrate8.jpg)
 
 
 # Install SalesforceXyTools For Chrome

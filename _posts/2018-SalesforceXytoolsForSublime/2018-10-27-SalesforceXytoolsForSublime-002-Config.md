@@ -28,9 +28,9 @@ update_date: 2020/05/23 23:56:51
 
 ## New Project
 
-![1539934585052](/images/xytools_images/1539934585052.png)
+![1539934585052](/blog/images/xytools_images/1539934585052.png)
 
-![1539934552300](/images/xytools_images/1539934552300.png)
+![1539934552300](/blog/images/xytools_images/1539934552300.png)
 
 
 
@@ -38,7 +38,7 @@ update_date: 2020/05/23 23:56:51
 
 Project Setting > Project Config Wizard
 
-![1539934605982](/images/xytools_images/1539934605982.png)
+![1539934605982](/blog/images/xytools_images/1539934605982.png)
 
 
 
@@ -48,14 +48,14 @@ Project Setting > Project Config Wizard
 * Input your security_token. If you haven't security_token, let it blank
 * Select your API Version
 
-![1539934624694](/images/xytools_images/1539934624694.png)
+![1539934624694](/blog/images/xytools_images/1539934624694.png)
 
 
 
 ## Proxy Config
 
 Project Setting > Proxy Config Wizard
-![1539934831888](/images/xytools_images/1539934831888.png)
+![1539934831888](/blog/images/xytools_images/1539934831888.png)
 
 
 # Start to develop sfdc
@@ -64,13 +64,13 @@ SFDC > Login SFDC
 
 ## Retrieve Metadata
 
-![1539934961510](/images/xytools_images/1539934961510.png)
+![1539934961510](/blog/images/xytools_images/1539934961510.png)
 
 
 
 Select metadata to retrieve
 
-![1540365204093](/images/xytools_images/1540365204093.png)
+![1540365204093](/blog/images/xytools_images/1540365204093.png)
 
 
 

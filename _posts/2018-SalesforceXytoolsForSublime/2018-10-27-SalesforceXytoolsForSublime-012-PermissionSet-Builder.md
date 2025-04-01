@@ -40,11 +40,11 @@ update_date: 2020/05/23 23:56:51
 
 `Permission Builder> Build Profile FieldPermissions`
 
-![1540457828769](/images/xytools_images/1540457828769.png)
+![1540457828769](/blog/images/xytools_images/1540457828769.png)
 
 Select your field
 
-![1540457987197](/images/xytools_images/1540457987197.png)
+![1540457987197](/blog/images/xytools_images/1540457987197.png)
 
 The Permissionset file :
 ```xml

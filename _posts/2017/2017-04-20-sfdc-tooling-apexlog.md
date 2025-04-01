@@ -18,5 +18,5 @@ update_date: 2020/05/23 23:56:52
 Get your log metadata: `/sobjects/ApexLog/07LXXXXXXXXXXXXXXX`
 Get your apex log : `/sobjects/ApexLog/07LXXXXXXXXXXXXXXX/Body`
 
-  ![SalesforceXyToolsForChrome](/images/salesforcexytools-for-chrome-example/sfdc-tooling-apexlog-1.jpg) 
-  ![SalesforceXyToolsForChrome](/images/salesforcexytools-for-chrome-example/sfdc-tooling-apexlog-2.jpg) 
+  ![SalesforceXyToolsForChrome](/blog/images/salesforcexytools-for-chrome-example/sfdc-tooling-apexlog-1.jpg) 
+  ![SalesforceXyToolsForChrome](/blog/images/salesforcexytools-for-chrome-example/sfdc-tooling-apexlog-2.jpg) 

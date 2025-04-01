@@ -38,14 +38,14 @@ update_date: 2020/05/23 23:56:51
 <a target="_blank" class="btn" href="https://chrome.google.com/webstore/detail/salesforcexytools/ehklfkbacogbanjgekccnbfdgjechlmf?hl=ja">Install SalesforceXyTools For Chrome From Web Store</a>
 
 ## MainMenu， Document Search
-  ![SalesforceXyToolsForChrome](/images/salesforcexytools-for-chrome/salesforcexytools-for-chrome1.jpg) 
+  ![SalesforceXyToolsForChrome](/blog/images/salesforcexytools-for-chrome/salesforcexytools-for-chrome1.jpg) 
 
 ## SOQL Creator, Tooling Query Creator
-  ![SalesforceXyToolsForChrome](/images/salesforcexytools-for-chrome/salesforcexytools-for-chrome5.jpg) 
-  ![SalesforceXyToolsForChrome](/images/salesforcexytools-for-chrome/salesforcexytools-for-chrome6.jpg) 
+  ![SalesforceXyToolsForChrome](/blog/images/salesforcexytools-for-chrome/salesforcexytools-for-chrome5.jpg) 
+  ![SalesforceXyToolsForChrome](/blog/images/salesforcexytools-for-chrome/salesforcexytools-for-chrome6.jpg) 
 
 ## Run Apex Script
-  ![SalesforceXyToolsForChrome](/images/salesforcexytools-for-chrome/salesforcexytools-for-chrome7.jpg) 
+  ![SalesforceXyToolsForChrome](/blog/images/salesforcexytools-for-chrome/salesforcexytools-for-chrome7.jpg) 
 
 ## Run JSForce Script
 
@@ -60,7 +60,7 @@ conn.query("SELECT Id, Name FROM Account", function(err, result) {
 });
 ```
 
-  ![SalesforceXyToolsForChrome](/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-run-jsforce.jpg) 
+  ![SalesforceXyToolsForChrome](/blog/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-run-jsforce.jpg) 
 
 
 # What is SalesforceXyTools For Sublime
@@ -83,12 +83,12 @@ conn.query("SELECT Id, Name FROM Account", function(err, result) {
 略过。。。
 
 ## SalesforceXyTools Export Soject To Excel
-  ![SalesforceXyToolsForSublimeHelp](/images/salesforcexytools-for-sublime/ExportToExcel005.jpg) 
-  ![SalesforceXyToolsForSublimeHelp](/images/salesforcexytools-for-sublime/ExportToExcel006.jpg) 
+  ![SalesforceXyToolsForSublimeHelp](/blog/images/salesforcexytools-for-sublime/ExportToExcel005.jpg) 
+  ![SalesforceXyToolsForSublimeHelp](/blog/images/salesforcexytools-for-sublime/ExportToExcel006.jpg) 
 
 ## 测试代码生存
 [SFDC-XY]->[SFDC Code Creator]->[Create Test Code]
-![SalesforceXyToolsForSublimeHelp](/images/salesforcexytools-for-sublime/Image001.jpg) 
+![SalesforceXyToolsForSublimeHelp](/blog/images/salesforcexytools-for-sublime/Image001.jpg) 
   
 ## Auto Create VF-Controller-DTO-DAO-Code
 1. 针对Object生成相关代码， 增删查改等操作，列表，明细。
@@ -96,15 +96,15 @@ conn.query("SELECT Id, Name FROM Account", function(err, result) {
 3. 演示效果
 
 ### 列表编辑页面
-  ![SalesforceXyToolsForSublimeHelp](/images/salesforcexytools-for-sublime/SaleforceXyTools-Help005.jpg) 
+  ![SalesforceXyToolsForSublimeHelp](/blog/images/salesforcexytools-for-sublime/SaleforceXyTools-Help005.jpg) 
 
 ### 列表确认页面
-  ![SalesforceXyToolsForSublimeHelp](/images/salesforcexytools-for-sublime/SaleforceXyTools-Help006.jpg) 
+  ![SalesforceXyToolsForSublimeHelp](/blog/images/salesforcexytools-for-sublime/SaleforceXyTools-Help006.jpg) 
 
 ### 详细编辑页面
-  ![SalesforceXyToolsForSublimeHelp](/images/salesforcexytools-for-sublime/SaleforceXyTools-Help007.jpg) 
+  ![SalesforceXyToolsForSublimeHelp](/blog/images/salesforcexytools-for-sublime/SaleforceXyTools-Help007.jpg) 
 
 ### 详细确认页面
-  ![SalesforceXyToolsForSublimeHelp](/images/salesforcexytools-for-sublime/SaleforceXyTools-Help008.jpg) 
+  ![SalesforceXyToolsForSublimeHelp](/blog/images/salesforcexytools-for-sublime/SaleforceXyTools-Help008.jpg) 
 
 # QA

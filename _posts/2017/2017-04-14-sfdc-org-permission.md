@@ -27,11 +27,11 @@ update_date: 2020/05/23 23:56:51
 
 Salesforceは、利用ユーザ毎の機能制限や、お客様の業務に合わせ顧客・案件データのアクセス権を様々な形で制御することが可能です。
 
-![SFDC Org Permission](/images/sfdc-permission/sfdc-permission-01.jpg) 
+![SFDC Org Permission](/blog/images/sfdc-permission/sfdc-permission-01.jpg) 
 
 # プロファイル（ユーザにどこまで行わせるか？）
 
-![SFDC Org Permission](/images/sfdc-permission/sfdc-permission-02.jpg) 
+![SFDC Org Permission](/blog/images/sfdc-permission/sfdc-permission-02.jpg) 
 
 # 権限セット（ユーザにどこまで行わせるか？）
 
@@ -39,7 +39,7 @@ Salesforceは、利用ユーザ毎の機能制限や、お客様の業務に合�
 
 権限セットを利用すると、プロファイルの設定を変更したり、複数のプロファイルを作成するといった工数を削減することが可能になります。
 
-![SFDC Org Permission](/images/sfdc-permission/sfdc-permission-03.jpg) 
+![SFDC Org Permission](/blog/images/sfdc-permission/sfdc-permission-03.jpg) 
 
 # 共有設定（ユーザにどこまでのデータを見せる・変更させる？）
 
@@ -52,24 +52,24 @@ Salesforceは、利用ユーザ毎の機能制限や、お客様の業務に合�
 * 個別データの手動共有
   * 各レコード毎に共有先を自由に設定
 
-![SFDC Org Permission](/images/sfdc-permission/sfdc-permission-04.jpg) 
+![SFDC Org Permission](/blog/images/sfdc-permission/sfdc-permission-04.jpg) 
 
 ## 組織の共有設定
 組織の共有設定・・・全ユーザに関わる基準となるアクセス権限
-![SFDC Org Permission](/images/sfdc-permission/sfdc-permission-05.jpg) 
+![SFDC Org Permission](/blog/images/sfdc-permission/sfdc-permission-05.jpg) 
 
 ## ロール階層
 ロール階層・・・上位ユーザが下位ユーザのデータにアクセス可能
-![SFDC Org Permission](/images/sfdc-permission/sfdc-permission-06.jpg) 
+![SFDC Org Permission](/blog/images/sfdc-permission/sfdc-permission-06.jpg) 
 
 ## 共有ルール
 共有ルール・・・特定のデータを特定のユーザに共有
-![SFDC Org Permission](/images/sfdc-permission/sfdc-permission-07.jpg) 
+![SFDC Org Permission](/blog/images/sfdc-permission/sfdc-permission-07.jpg) 
 
 ## 個別データの手動共有
 手動共有・・・個々のデータレベルで共有
 
-![SFDC Org Permission](/images/sfdc-permission/sfdc-permission-08.jpg) 
+![SFDC Org Permission](/blog/images/sfdc-permission/sfdc-permission-08.jpg) 
 
 
 # download pdf

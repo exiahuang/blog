@@ -125,7 +125,7 @@ public with sharing class BlogController extends SfdcXyController {
 Right click, `SFDC-XY Code Creator >Create test code`
 
 
-![1540449212136](/images/xytools_images/1540449212136.png)
+![1540449212136](/blog/images/xytools_images/1540449212136.png)
 
 
 
@@ -322,13 +322,13 @@ Input a soql query string.
 select id,name,comment__c,content__c from Blog__c limit 2
 ```
 
-![1540449792963](/images/xytools_images/1540449792963.png)
+![1540449792963](/blog/images/xytools_images/1540449792963.png)
 
 
 
 Right click, `SFDC-XY Code Creator > Insert Test Data(From Soql)`
 
-![1540449870938](/images/xytools_images/1540449870938.png)
+![1540449870938](/blog/images/xytools_images/1540449870938.png)
 
 The sql will be change to apex code like below.
 
@@ -357,7 +357,7 @@ Right click, `SFDC-XY Code Creator > Insert Test Data(All Field)` or
 
 `SFDC-XY Code Creator > Insert Test Data(Needed Field)`
 
-![1540457409043](/images/xytools_images/1540457409043.png)
+![1540457409043](/blog/images/xytools_images/1540457409043.png)
 
 Select your sobject, It will create code like below.
 

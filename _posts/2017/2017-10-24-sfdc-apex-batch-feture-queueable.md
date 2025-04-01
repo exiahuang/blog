@@ -168,5 +168,5 @@ Which one to use? Batchable @future Queueable
 
 
 # summary
-![summary1](/images/sfdc-image/sfdc-apex-batch-feture-queueable-1.png)
-![summary2](/images/sfdc-image/sfdc-apex-batch-feture-queueable-2.png)
+![summary1](/blog/images/sfdc-image/sfdc-apex-batch-feture-queueable-1.png)
+![summary2](/blog/images/sfdc-image/sfdc-apex-batch-feture-queueable-2.png)

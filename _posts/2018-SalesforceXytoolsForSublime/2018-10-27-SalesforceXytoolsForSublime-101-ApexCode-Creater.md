@@ -48,17 +48,17 @@ update_date: 2020/05/23 23:56:51
 
 SFDC Code Creator > Create VisualForce/Controller/DTO/DAO Code
 
-![1540444254303](/images/xytools_images/1540444254303.png)
+![1540444254303](/blog/images/xytools_images/1540444254303.png)
 
 ## Choose your Sobject.
 
 I will select `Blog__c`.
 
-![1540444395082](/images/xytools_images/1540444395082.png)
+![1540444395082](/blog/images/xytools_images/1540444395082.png)
 
 About `Blog__c`:
 
-![1540535859753](/images/xytools_images/1540535859753.png)
+![1540535859753](/blog/images/xytools_images/1540535859753.png)
 
 
 
@@ -68,7 +68,7 @@ About `Blog__c`:
 
 I will select `1.Custom fields Only(Exculde Validate)`.
 
-![1540444454039](/images/xytools_images/1540444454039.png)
+![1540444454039](/blog/images/xytools_images/1540444454039.png)
 
 
 
@@ -76,11 +76,11 @@ When It is done , It will show the popup like below.
 
 There are many source will be opened if you choose `ok`. 
 
-![1540444924569](/images/xytools_images/1540444924569.png)
+![1540444924569](/blog/images/xytools_images/1540444924569.png)
 
 You can find the source in `./src_sfdc_module/code-creator/src`
 
-![1540445085932](/images/xytools_images/1540445085932.png)
+![1540445085932](/blog/images/xytools_images/1540445085932.png)
 
 
 
@@ -88,7 +88,7 @@ You can find the source in `./src_sfdc_module/code-creator/src`
 
 choose the `src`, then right click, `Sfdc-Xy > Deploy Directory To SFDC`
 
-![1540445304166](/images/xytools_images/1540445304166.png)
+![1540445304166](/blog/images/xytools_images/1540445304166.png)
 
 
 
@@ -109,15 +109,15 @@ Page URL :  https://{instance}.salesforce.com/apex/Blog
 
 ### Input Form
 
-![1540536475265](/images/xytools_images/1540536475265.png)
+![1540536475265](/blog/images/xytools_images/1540536475265.png)
 
 
 ### Review Form
 Input something, then click `next`, then it will go to `Review Form`
 
-![1540536538782](/images/xytools_images/1540536538782.png)
+![1540536538782](/blog/images/xytools_images/1540536538782.png)
 
-![1540536818611](/images/xytools_images/1540536818611.png)
+![1540536818611](/blog/images/xytools_images/1540536818611.png)
 
 click `save`, you can save the data.
 
@@ -133,7 +133,7 @@ URL : https://{instance}.salesforce.com/apex/BlogList
 
 ### List All Records
 
-![1540537365308](/images/xytools_images/1540537365308.png)
+![1540537365308](/blog/images/xytools_images/1540537365308.png)
 
 
 ### Search Record
@@ -143,10 +143,10 @@ URL : https://{instance}.salesforce.com/apex/BlogList
 
 Select the filter, and search the data.
 
-![1540537722015](/images/xytools_images/1540537722015.png)
+![1540537722015](/blog/images/xytools_images/1540537722015.png)
 
 
-![1540537883121](/images/xytools_images/1540537883121.png)
+![1540537883121](/blog/images/xytools_images/1540537883121.png)
 
 
 
@@ -154,16 +154,16 @@ Select the filter, and search the data.
 
 Edit records , and click `next`
 
-![1540538022704](/images/xytools_images/1540538022704.png)
+![1540538022704](/blog/images/xytools_images/1540538022704.png)
 
 ### Records Review Form
 
 Go to the review form, and click `save` button.
 
-![1540538069994](/images/xytools_images/1540538069994.png)
+![1540538069994](/blog/images/xytools_images/1540538069994.png)
 
 
 
 Go back to the list page, check the result.
 
-![1540538151435](/images/xytools_images/1540538151435.png)
+![1540538151435](/blog/images/xytools_images/1540538151435.png)

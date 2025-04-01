@@ -54,7 +54,7 @@ update_date: 2020/05/23 23:56:51
 # Introduce
 
 ## search metadata
-  ![SalesforceXyToolsForChrome](/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-search-metadata.gif) 
+  ![SalesforceXyToolsForChrome](/blog/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-search-metadata.gif) 
 
 ### support for metadata type as below
 
@@ -69,7 +69,7 @@ update_date: 2020/05/23 23:56:51
 * SFDCMenu
 
 ## search document
-  ![SalesforceXyToolsForChrome](/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-search-doc.gif) 
+  ![SalesforceXyToolsForChrome](/blog/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-search-doc.gif) 
 
 ### support for document as below
 * Apex Developer Guide
@@ -99,44 +99,44 @@ update_date: 2020/05/23 23:56:51
 * Formulas Quick Reference
 
 ## quickly access sfdc menu
-  ![SalesforceXyToolsForChrome](/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-search-menu.gif) 
+  ![SalesforceXyToolsForChrome](/blog/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-search-menu.gif) 
 
 ## support many projects
-  ![SalesforceXyToolsForChrome](/images/salesforcexytools-for-chrome/salesforcexytools-for-chrome4.jpg) 
+  ![SalesforceXyToolsForChrome](/blog/images/salesforcexytools-for-chrome/salesforcexytools-for-chrome4.jpg) 
 
 ## auto create soql , and run soql
-  ![SalesforceXyToolsForChrome](/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-soql.gif) 
+  ![SalesforceXyToolsForChrome](/blog/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-soql.gif) 
 
 ## export data
-  ![SalesforceXyToolsForChrome](/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-export-data.gif) 
+  ![SalesforceXyToolsForChrome](/blog/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-export-data.gif) 
 
 ## auto create tooling query , and tooling soql
-  ![SalesforceXyToolsForChrome](/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-tooling-query.jpg) 
+  ![SalesforceXyToolsForChrome](/blog/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-tooling-query.jpg) 
 
 ## run apex script
-  ![SalesforceXyToolsForChrome](/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-run-apex.gif) 
+  ![SalesforceXyToolsForChrome](/blog/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-run-apex.gif) 
 
 ## run rest api
-  ![SalesforceXyToolsForChrome](/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-run-rest-api.jpg) 
+  ![SalesforceXyToolsForChrome](/blog/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-run-rest-api.jpg) 
 
 ## View Apex Code Coverage
-  ![SalesforceXyToolsForChrome](/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-apex-code-coverage.jpg) 
+  ![SalesforceXyToolsForChrome](/blog/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-apex-code-coverage.jpg) 
 
 ## Auto Create Test Class
 Select your apex code, it will help you to create test code, and deploy to your sfdc. Example, select `BlogDao` and click `Auto Create Test Code`, it will help you to create `BlogDaoTest`. The tool won't overide the `BlogDaoTest` if it is exist in your sfdc.
-  ![Auto Create Test Class](/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-auto-create-testclass.gif) 
+  ![Auto Create Test Class](/blog/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-auto-create-testclass.gif) 
 
 ## Apex Log Viewer
-  ![SalesforceXyToolsForChrome](/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-logviewer.gif) 
+  ![SalesforceXyToolsForChrome](/blog/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-logviewer.gif) 
 
 ## Data Migrate(Use Bulk Api)
   [Read More Data Migrate](/Salesforce/sfdc-salesforcexytools-data-migrate.html)
-  ![sfdc-salesforcexytools-data-migrate6](/images/salesforcexytools-for-chrome/sfdc-salesforcexytools-data-migrate6.jpg)
+  ![sfdc-salesforcexytools-data-migrate6](/blog/images/salesforcexytools-for-chrome/sfdc-salesforcexytools-data-migrate6.jpg)
 
 
 ## Data Migrate2(Use Bulk Api)
   [Read More Data Migrate](/Salesforce/sfdc-salesforcexytools-data-migrate2.html)
-  ![sfdc-salesforcexytools-data-migrate6](/images/salesforcexytools-for-chrome/sfdc-salesforcexytools-data-migrate2-1.jpg)
+  ![sfdc-salesforcexytools-data-migrate6](/blog/images/salesforcexytools-for-chrome/sfdc-salesforcexytools-data-migrate2-1.jpg)
 
 
 # Advance
@@ -145,7 +145,7 @@ Select your apex code, it will help you to create test code, and deploy to your 
 <div class="note primary">`F12` to Open Chrome Developer Tools, And paste your jsforce script and run it.
 `conn` is a jsforce.Connection object.
 </div>
-  ![SalesforceXyToolsForChrome](/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-run-jsforce.jpg) 
+  ![SalesforceXyToolsForChrome](/blog/images/salesforcexytools-for-chrome/saleforcexytools-for-chorme-run-jsforce.jpg) 
 
 
 # Install SalesforceXyTools For Chrome

@@ -15,7 +15,7 @@ update_date: 2020/05/23 23:56:52
 
 There isn't much out there on this error.  Before doing any data update, I like to export the target object's full data set as a precaution.  My tool of choice is workbench but sometimes it can be a little baby and complain like "Selecting compound data not supported in Bulk Query". 
 
-![Error](/images/sfdc-image/bulk-api-error.jpg)
+![Error](/blog/images/sfdc-image/bulk-api-error.jpg)
 
 Turns out that the following fields are going to make your bulk api export fail:
 

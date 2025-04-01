@@ -35,11 +35,11 @@ update_date: 2020/05/23 23:56:51
 
 `SFDC Code Creator > Create Soql`
 
-![1540459992691](/images/xytools_images/1540459992691.png)
+![1540459992691](/blog/images/xytools_images/1540459992691.png)
 
 Select Soql Type
 
-![1540460017305](/images/xytools_images/1540460017305.png)
+![1540460017305](/blog/images/xytools_images/1540460017305.png)
 
 
 

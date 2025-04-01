@@ -46,7 +46,7 @@ This is an example of batch apexclass.
 
 Metadata > New ApexClass
 
-![1540364550961](/images/xytools_images/1540364550961.png)
+![1540364550961](/blog/images/xytools_images/1540364550961.png)
 
 > Tips : Create ApexClass, ApexTrigger, ApexPage, ApexComponent in the same way
 
@@ -55,12 +55,12 @@ Metadata > New ApexClass
 ### Step2. Select Apex template
 
 
-![1540365063496](/images/xytools_images/1540365063496.png)
+![1540365063496](/blog/images/xytools_images/1540365063496.png)
 
 
 > Tips: search batch
 
-![1540365114644](/images/xytools_images/1540365114644.png)
+![1540365114644](/blog/images/xytools_images/1540365114644.png)
 
 Input your batch name
 
@@ -94,7 +94,7 @@ Change your apexclass,
 
 Right click, `SFDC-XY Metadata` > `Save To Server` 
 
-![1540365460463](/images/xytools_images/1540365460463.png)
+![1540365460463](/blog/images/xytools_images/1540365460463.png)
 
 
 
@@ -102,7 +102,7 @@ Right click, `SFDC-XY Metadata` > `Save To Server`
 
 Right click, `SFDC-XY Metadata` > `Refresh From Server` 
 
-![1540366564885](/images/xytools_images/1540366564885.png)
+![1540366564885](/blog/images/xytools_images/1540366564885.png)
 
 
 
@@ -110,11 +110,11 @@ Right click, `SFDC-XY Metadata` > `Refresh From Server`
 
 Right click, `SFDC-XY Metadata` > `Delete this metadata(Danger)` 
 
-![1540366621242](/images/xytools_images/1540366621242.png)
+![1540366621242](/blog/images/xytools_images/1540366621242.png)
 
 It will pop up a dialog like this.
 
-![1540366789444](/images/xytools_images/1540366789444.png)
+![1540366789444](/blog/images/xytools_images/1540366789444.png)
 
 
 
@@ -124,7 +124,7 @@ It will pop up a dialog like this.
 
 `Project Setting` > `Open Project Config file`
 
-![1540366215462](/images/xytools_images/1540366215462.png)
+![1540366215462](/blog/images/xytools_images/1540366215462.png)
 
 set your `winmerge` like below.
 
@@ -142,15 +142,15 @@ set your `winmerge` like below.
 
 Right click, `SFDC-XY Metadata` > `Diff with Server` 
 
-![1540365783795](/images/xytools_images/1540365783795.png)
+![1540365783795](/blog/images/xytools_images/1540365783795.png)
 
-![1540366115227](/images/xytools_images/1540366115227.png)
+![1540366115227](/blog/images/xytools_images/1540366115227.png)
 
 
 
 if you do not set `winmerge`, it will use simple diff.
 
-![1540366430051](/images/xytools_images/1540366430051.png)
+![1540366430051](/blog/images/xytools_images/1540366430051.png)
 
 
 
@@ -160,7 +160,7 @@ Right click, `SFDC-XY Metadata` > `Save To Server`
 
 It will go to sfdc source page.
 
-![1540365563010](/images/xytools_images/1540365563010.png)
+![1540365563010](/blog/images/xytools_images/1540365563010.png)
 
 
 
@@ -170,7 +170,7 @@ It will go to sfdc source page.
 
 Right click, `SFDC-XY Metadata` > `Deploy To Server(Ant Migration Tool)` 
 
-![1540432504706](/images/xytools_images/1540432504706.png)
+![1540432504706](/blog/images/xytools_images/1540432504706.png)
 
 
 
@@ -186,7 +186,7 @@ There 4 ways to deploy to sfdc server.  If you select **check only** , it never 
 
 
 
-![1540432580625](/images/xytools_images/1540432580625.png)
+![1540432580625](/blog/images/xytools_images/1540432580625.png)
 
 
 
@@ -196,7 +196,7 @@ choose your folder or source in sublime folders, then right click.
 
 Find the menu : `Sfdc-Xy > Deploy Directory To SFDC`
 
-![1540445304166](/images/xytools_images/1540445304166.png)
+![1540445304166](/blog/images/xytools_images/1540445304166.png)
 
 
 
@@ -204,7 +204,7 @@ Find the menu : `Sfdc-Xy > Deploy Directory To SFDC`
 
 Right click, `SFDC-XY Run` > `Run Test Class` 
 
-![1540442455878](/images/xytools_images/1540442455878.png)
+![1540442455878](/blog/images/xytools_images/1540442455878.png)
 
 
 

@@ -18,7 +18,7 @@ update_date: 2020/05/23 23:56:51
 <div class="note primary">This entity relationship diagram (ERD) illustrates relationships between the Salesforce Knowledge objects.
 </div>
 
-  ![Salesforce-Knowledge-Objects](/images/sfdc-article/Salesforce-Knowledge-Objects.png)
+  ![Salesforce-Knowledge-Objects](/blog/images/sfdc-article/Salesforce-Knowledge-Objects.png)
 
 # KnowledgeArticleVersion
 ```sql

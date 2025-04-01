@@ -27,4 +27,4 @@ If you are administrator you will still be able to edit the fields. If you REALL
 # Edit Read Only Fields 参照のみ項目の編集
 `参照のみ項目の編集`
 
-![参照のみ項目の編集](/images/sfdc-image/EditReadOnlyFields.png)
+![参照のみ項目の編集](/blog/images/sfdc-image/EditReadOnlyFields.png)

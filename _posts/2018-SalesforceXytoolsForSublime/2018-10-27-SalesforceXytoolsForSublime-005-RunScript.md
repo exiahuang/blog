@@ -42,13 +42,13 @@ update_date: 2020/05/23 23:56:51
 
 Then right click, `SFDC-XY Run > SOQL Query`
 
-![1540440544578](/images/xytools_images/1540440544578.png)
+![1540440544578](/blog/images/xytools_images/1540440544578.png)
 
 
 
 result :
 
-![1540440661762](/images/xytools_images/1540440661762.png)
+![1540440661762](/blog/images/xytools_images/1540440661762.png)
 
 
 
@@ -58,7 +58,7 @@ select your apex script,
 
  right click, `SFDC-XY Run > Run Apex Script`
 
-![1540441049661](/images/xytools_images/1540441049661.png)
+![1540441049661](/blog/images/xytools_images/1540441049661.png)
 
 # Run Tooling query
 
@@ -66,4 +66,4 @@ select your tooling query,
 
  right click, `SFDC-XY Run > Tooling Query`
 
-![1540441306919](/images/xytools_images/1540441306919.png)
+![1540441306919](/blog/images/xytools_images/1540441306919.png)
